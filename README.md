@@ -44,7 +44,7 @@ This dashboard provides an in-depth analysis of Walmart's business performance, 
 - Assessed payment trends to improve payment processing strategies.  
 
 ## 🚀 How to Use  
-1. Open the Power BI file (`Walmart_BI_Dashboard.pbix`).  
+1. Open the Power BI file (`Walmart_Data_Dashboard.pbix`).  
 2. Interact with the dashboard by applying filters and exploring visualizations.  
 3. Utilize the insights for strategy formulation and operational improvements.  
 
