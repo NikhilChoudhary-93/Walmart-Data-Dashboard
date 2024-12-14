@@ -49,7 +49,7 @@ This dashboard provides an in-depth analysis of Walmart's business performance, 
 3. Utilize the insights for strategy formulation and operational improvements.  
 
 ## Data Used  
-- <a href="https://github.com/NikhilChoudhary-93/Road-Safety-Analytics-Project/blob/main/Road%20Accident%20Data.csv">Dataset</a>
+- <a href="https://github.com/NikhilChoudhary-93/Walmart-Data-Dashboard/blob/main/Updated_Walmart_Dataset_with_Customer_ID.csv">Dataset</a>
 
 ## 📫 Contact  
 For questions or collaboration, reach out via:  
